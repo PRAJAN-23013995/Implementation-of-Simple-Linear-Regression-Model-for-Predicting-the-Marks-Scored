@@ -70,18 +70,25 @@ print("RMSE= ",rmse)
 ## Output:
 Date set:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/e64b690a-a621-49b8-9932-cb8749114809)
+
 Head values:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/d08c3406-436b-4c0e-b926-4f70f48a69f7)
+
 Tail values:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/5f8bbc8f-ee3e-478e-8317-5fda86fcc307)
+
 X and y values:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/43f37992-27e2-4afe-abf7-df03d3c785ca)
+
 Predication values of X and Y:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/0a1e76b7-df2c-412e-9e79-c9b9f46bad9b)
+
 MAE,MSE and RMSE:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/2792ba2d-2f31-4f16-8e7e-801543c83a25)
+
 Training Set:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/fb80334a-24d1-4106-8e2e-f0f0cc011d96)
+
 Testing Set:
 ![image](https://github.com/PRAJAN-23013995/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150313345/22e0e674-a75c-4239-96fe-662524dc3514)
 
